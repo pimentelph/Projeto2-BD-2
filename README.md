@@ -21,11 +21,6 @@ O projeto envolve a criação e manipulação de um banco de dados relacional us
 5. **Estruturas Avançadas**
    - Implementar gatilhos (triggers) para ações automáticas em resposta a eventos no banco de dados.
 
-## Entrega
-
-- **Documento PDF**: Deve incluir os nomes dos integrantes, capturas de tela, descrição detalhada dos passos e referências.
-- **Postagem no Blog**: Cada membro deve postar conforme instruções do professor.
-
 ## Contato dos Integrantes
 
 - [Pedro Henrique Pimentel da Silva (Dono desse repositório)](https://www.github.com/pimentelph)
