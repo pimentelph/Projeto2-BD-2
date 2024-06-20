@@ -28,8 +28,8 @@ O projeto envolve a criação e manipulação de um banco de dados relacional us
 
 ## Contato dos Integrantes
 
-- Pedro Henrique Pimentel da Silva (Dono desse repositório)
-- Pedro Henrique de Souza Cravo
-- Rafael Christian Silva Wernesbach
-- Rafael Barcelos de Azevedo
-- Cauã Agrisi Merizio
+- [Pedro Henrique Pimentel da Silva (Dono desse repositório)](https://www.github.com/pimentelph)
+- [Pedro Henrique de Souza Cravo](https://github.com/pedcravo)
+- [Rafael Christian Silva Wernesbach](https://github.com/RafaelWernesbach)
+- [Rafael Barcelos de Azevedo](https://github.com/Rbarzevedo)
+- [Cauã Agrisi Merisio](https://github.com/Agrisi)
